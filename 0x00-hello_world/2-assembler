@@ -1,4 +1,2 @@
 #!/bin/bash
-gcc -s $CFILE
-gcc -S $CFILE
 gcc -S $CFILE
