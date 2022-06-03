@@ -1,1 +1,1 @@
-this my second assignment on alx-low_level_programming
+my second assignment on low level programming
