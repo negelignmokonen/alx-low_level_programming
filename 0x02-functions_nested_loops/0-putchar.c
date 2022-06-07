@@ -1,21 +1,20 @@
 #include "main.h"
 /**
- * main- Entry
+ * main - Entry point
  * 
- * Return: 0
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
-	char word[9] = "_putchar";
+	char *sh = "Holberton";
 
-	int i = 0;
-
-	while (i < 8)
+	while (*sh)
 	{
-		_putchar(word[i]);
-		i++;
+		_putchar(*sh);
+		sh++;
 	}
 	_putchar('\n');
+
 	return (0);
 }
 
