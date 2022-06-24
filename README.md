@@ -1,2 +1,1 @@
-# alx-low_level_programming
-low level programming class
+0x0A-argc_argv
